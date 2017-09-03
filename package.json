@@ -1,10 +1,9 @@
 {
   "name": "react-children-render",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A component for rendering children.",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "peerDependencies": {
     "react": "^16.0.0-beta.5",
     "react-dom": "^16.0.0-beta.5"

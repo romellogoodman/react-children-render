@@ -1,0 +1,25 @@
+{
+  "name": "react-children-render",
+  "version": "1.0.0",
+  "description": "A component for rendering children.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "peerDependencies": {
+    "react": "^16.0.0-beta.5",
+    "react-dom": "^16.0.0-beta.5"
+  },
+  "author": "Romello Goodman",
+  "license": "MIT",
+  "homepage": "https://github.com/romellogood/react-children-render#readme",
+  "bugs": {
+    "url": "https://github.com/romellogood/react-children-render/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romellogood/react-children-render.git"
+  },
+  "keywords": [
+    "react"
+  ]
+}
